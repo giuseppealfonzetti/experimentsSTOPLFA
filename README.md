@@ -11,6 +11,6 @@ This repository collects all the code needed to reproduce results reported in "P
     - `capabilities.R`
     
     
-- The `data` folder contains the dataset used for the learning capabilities. The one related to the Big Five survey, instead, will be automatically downloaded by the `big5.R` script.
+- The `data` folder contains the dataset used for the learning capabilities application. The one related to the Big Five survey, instead, will be automatically downloaded by the `big5.R` script.
 
 Running any of the three `.R` files will create an `output` folder where the results will be saved.
