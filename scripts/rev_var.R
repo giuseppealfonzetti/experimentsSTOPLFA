@@ -1,3 +1,8 @@
+# Proper asymptotic variances computed at the stochastic estimator
+# Asymptotic covariance matrices in sims.R are evaluated at the true value
+# of the parameter vector
+
+
 library(plFA)
 library(dplyr)
 library(tidyr)
